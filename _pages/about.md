@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Hyewon Kim (pronounced: _Hae-one Kim_). I am a PhD candidate in the [Department of Economics](https://economics.cornell.edu/hyewon-kim) at Cornell University, and I am also affiliated with the [Jeb E. Brooks School of Public Policy](https://www.publicpolicy.cornell.edu/people/hyewon-kim/). 
+Hi, I am Hyewon Kim (pronounced: _Hae-one Kim_). I am a PhD candidate in the [Department of Economics](https://economics.cornell.edu/hyewon-kim) at Cornell University, and I am also affiliated with the [Cornell Brooks School of Public Policy](https://www.publicpolicy.cornell.edu/people/hyewon-kim/). 
 
-My research is in labor economics and applied econometrics. I work on econometric methods for policy analysis and on the empirical evaluation of policies affecting disadvantaged populations.
+My research is in labor economics and applied econometrics. I develop methods to analyze policies and use data to understand how policies affect disadvantaged populations.
 
 Here is my [CV](files/CV_Hyewon_Kim.pdf), my [research tab](/research), and my [teaching tab](/teaching).
 
