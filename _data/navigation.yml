@@ -12,7 +12,7 @@ main:
 * title: "CV"
   url: /files/CV_Hyewon_Kim.pdf
 
-  - title: "Research"
-    url: /research/
-  - title: "Teaching"
-    url: /teaching/
+* title: "Research"
+  url: /research/
+* title: "Teaching"
+  url: /teaching/
