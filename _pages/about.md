@@ -15,6 +15,6 @@ Here is my [CV](files/CV_Hyewon_Kim.pdf), my [research tab](/research), and my [
 
 You can reach me at: [hk935@cornell.edu](mailto:hk935@cornell.edu)
 
-I am advised by [Doug Miller](https://economics.cornell.edu/douglas-miller), [Zhuan Pei](https://peizhuan.github.io/), and [Evan Riehl](https://evanriehl.github.io/). 
+I am advised by [Doug Miller](https://scholar.google.com/citations?user=swGqiwQAAAAJ&hl=en), [Zhuan Pei](https://peizhuan.github.io/), and [Evan Riehl](https://evanriehl.github.io/). 
 
 I will be on the 2025-2026 Job Market.
