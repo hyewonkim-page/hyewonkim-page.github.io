@@ -18,7 +18,7 @@ author_profile: true
 <br>
 
 **Effects of Work Requirements in Means-Tested Programs** with Lexin Cai and Pauline Leung.
-Draft forthcoming pending Census Bureau disclosure review.
+>Draft forthcoming pending Census Bureau disclosure review.
 <br>
 
 **New Data on War on Poverty Programs in the 1960s** with Esra Kose, Henry Manley and Doug Miller.
@@ -27,7 +27,7 @@ Draft forthcoming pending Census Bureau disclosure review.
 <br>
 
 **The Lifecycle Effects of War on Poverty Programs** with Hilary Hoynes, Esra Kose, Henry Manley and Doug Miller.
-Received U.S. Census Bureau approval for restricted-use data access.
+>Received U.S. Census Bureau approval for restricted-use data access.
 <br>
 
 **[Parental Gender Norms and College Major Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5722848)** with Chulhee Lee and Seojung Oh.
