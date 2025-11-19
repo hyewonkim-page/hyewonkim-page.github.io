@@ -8,7 +8,7 @@ author_profile: true
 
 <br>
 
-**Estimating Treatment Complementarity**
+**[Estimating Treatment Complementarity](/files/JMP_Hyewon_Kim.pdf)**
 >How can we estimate the complementarity between two treatments when assignment is not fully random, such as in randomized experiments with imperfect compliance or in quasi-experimental settings? The first part of this paper shows that the commonly used two-stage least squares (2SLS)---with instruments for each treatment and their interaction---is often not suitable for estimating treatment interaction effects. Specifically, 2SLS requires strong assumptions about (1) treatment effect heterogeneity and (2) types of compliers. I show that these assumptions have testable implications on first stage patterns, and these often fail in published empirical studies on complementarity. The second part of the paper proposes an alternative estimation strategy for cases where these assumptions for 2SLS are unlikely to hold. Building on the marginal treatment effect literature, this approach models potential outcomes as a linear function of individuals’ unobserved resistance to treatment and offers a clearer connection to the intended estimand of treatment interaction. Lastly, the paper revisits Angelucci and Bennett (2024), an experimental study of complementarity under imperfect compliance, to illustrate how the proposed diagnostics and alternative estimator can enhance empirical analysis of interactions between two treatments.
 
 <br>
@@ -18,7 +18,7 @@ author_profile: true
 <br>
 
 **Effects of Work Requirements in Means-Tested Programs** with Lexin Cai and Pauline Leung.
-
+Draft forthcoming pending Census Bureau disclosure review.
 <br>
 
 **New Data on War on Poverty Programs in the 1960s** with Esra Kose, Henry Manley and Doug Miller.
@@ -27,10 +27,10 @@ author_profile: true
 <br>
 
 **The Lifecycle Effects of War on Poverty Programs** with Hilary Hoynes, Esra Kose, Henry Manley and Doug Miller.
-
+Received U.S. Census Bureau approval for restricted-use data access.
 <br>
 
-**Parental Gender Norms and College Major Choice** with Chulhee Lee and Seojung Oh.
+**[Parental Gender Norms and College Major Choice](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5722848)** with Chulhee Lee and Seojung Oh.
 >Why do women sort into “female” majors? This paper investigates whether parental gender norms affect a child’s choice of college major in Korea. As an index of parental son preference, we use the sex ratios at birth (SRB) in the parent’s province of birth that resulted from differential rates of sex-selective abortions across regions. We find that having fathers with more traditional gender norms tend to increase the probability of the daughters’ enrollment in a female-dominated major, such as education and home economics. However, this relationship is no longer found for recent cohorts who entered college after 2000. No significant effect is observed for sons, and only weak influence of maternal gender norms is found. We offer two possible explanations for the diminished influence of parental gender norms among the younger generations, namely, increasing labor-market disadvantage associated with female-dominated majors and convergence in parental preference on sons’ and daughters’ occupations. Our results show that conventional gender stereotype in Korea played a role in shaping segregated choice of major by gender through cultural transmission, and that its influence became weaker over time.
 
 <br>
